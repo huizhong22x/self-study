@@ -1,3 +1,10 @@
+###############################
+# code by huizhong
+# introducing r stuff
+#
+# sept 5 2024
+###############################
+
 # hw0
 # install.packages(
 #   c("tidyverse", "knitr", "rmarkdown", "janitor", "broom", "here", "readxl", 
@@ -8,6 +15,7 @@
 # remotes::install_github("p8105/p8105.datasets")
 # remotes::install_github("ropensci/rnoaa")
 
+
 # set ssh
 # set personal access token
 # Terminal
@@ -17,7 +25,9 @@
 
 # git push -f
 
+
 is.na(3)
+
 
 # working directory
 getwd()
