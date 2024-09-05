@@ -29,6 +29,24 @@
 is.na(3)
 
 
-# working directory
+## working directory
+
 getwd()
 # setwd()
+
+
+## data frames
+
+library(tidyverse)
+
+example_df = 
+  tibble(
+    vec_numeric = 10:13,
+    vec_char = c("q","r","e","t"),
+    vec_logical = c(T, T, F, T),
+    vec_factor = factor(c("m","f","m","m"))
+  )
+
+example_df
+
+
