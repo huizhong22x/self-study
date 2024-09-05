@@ -19,3 +19,6 @@
 
 is.na(3)
 
+# working directory
+getwd()
+# setwd()
