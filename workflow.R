@@ -10,3 +10,6 @@ remotes::install_github("ropensci/rnoaa")
 
 # set ssh
 # set personal access token
+# git config -m "text commit"
+# git config --global user.email ""
+# git config --global user.name ""
