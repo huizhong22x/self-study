@@ -37,3 +37,16 @@ You can also embed plots, for example:
 ![](my_practice_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Assessment: 
+
+
+``` r
+a = rnorm(5, mean = 1)
+a
+```
+
+```
+## [1]  1.4348495  0.3994582  2.0063167 -0.1012267  1.6760003
+```
+

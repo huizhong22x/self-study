@@ -30,3 +30,11 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Assessment: 
+
+```{r, eval=TRUE}
+a = rnorm(5, mean = 1)
+a
+```
+
